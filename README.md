@@ -45,6 +45,7 @@ The biggest challenge is that the data in this case is that we are only analyzin
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 •	May and June are the best months to launch a campaign (based on data provided)
 •	October and December are the worst months to launch a campaign (based on data provided)
+
 - What can you conclude about the Outcomes based on Goals?
 Observing the analysis done on the tab labeled "Outcome Based on Goals" we can conclude:
 •	That smaller amounts up to 15 thousand have a high success rate (i.e, % Successful line crosses with the % Failed line). 
